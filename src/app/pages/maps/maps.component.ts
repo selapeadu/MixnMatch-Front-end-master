@@ -25,4 +25,8 @@ processFile(file){
   this.fileName = file.name;
   this.fileSize = (file.size / 1000000).toFixed(2);
 }
+
+removeFile(){
+  
+}
 }
