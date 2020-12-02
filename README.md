@@ -198,4 +198,4 @@ At present, we officially aim to support the last two versions of the following 
 
 ### Social Media
 
-Behance: <https://www.behance.com/selapeadu>
+Behance: <https://www.behance.net/selapeadu>
